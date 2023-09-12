@@ -1,0 +1,11 @@
+C:\Users\tapic\source\repos\looksEasy\looksEasy\bin\Debug\looksEasy.exe.config
+C:\Users\tapic\source\repos\looksEasy\looksEasy\bin\Debug\looksEasy.exe
+C:\Users\tapic\source\repos\looksEasy\looksEasy\bin\Debug\looksEasy.pdb
+C:\Users\tapic\source\repos\looksEasy\looksEasy\obj\Debug\looksEasy.csproj.AssemblyReference.cache
+C:\Users\tapic\source\repos\looksEasy\looksEasy\obj\Debug\looksEasy.csproj.SuggestedBindingRedirects.cache
+C:\Users\tapic\source\repos\looksEasy\looksEasy\obj\Debug\looksEasy.Form1.resources
+C:\Users\tapic\source\repos\looksEasy\looksEasy\obj\Debug\looksEasy.Properties.Resources.resources
+C:\Users\tapic\source\repos\looksEasy\looksEasy\obj\Debug\looksEasy.csproj.GenerateResource.cache
+C:\Users\tapic\source\repos\looksEasy\looksEasy\obj\Debug\looksEasy.csproj.CoreCompileInputs.cache
+C:\Users\tapic\source\repos\looksEasy\looksEasy\obj\Debug\looksEasy.exe
+C:\Users\tapic\source\repos\looksEasy\looksEasy\obj\Debug\looksEasy.pdb
